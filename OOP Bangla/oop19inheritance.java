@@ -24,7 +24,7 @@ class teacher extends person {
     }
 }
 
-public class oop18inheritance {
+public class oop19inheritance {
     public static void main(String[] args) {
         teacher t1 = new teacher();
         t1.name = "GM";
